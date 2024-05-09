@@ -1,1 +1,1 @@
-print("rimon")
+print("ashik")
