@@ -1,1 +1,1 @@
-print("ashik is not good boy")
+print("ashik is not bad boy")
